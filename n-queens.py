@@ -1,6 +1,3 @@
-from re import L
-
-
 res = 0
 board = []
 
